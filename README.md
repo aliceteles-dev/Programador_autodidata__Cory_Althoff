@@ -1,4 +1,4 @@
-# Programador-Autodidata---Cory-Althoff
+# Programador-Autodidata: Cory-Althoff
 Meus estudos do livro Programador Autodidata
 
 Aqui você vai encontrar resumos dos conteúdos do livro e minhas resoluções dos desafios de cada capítulo, além de eventualmente
