@@ -1,3 +1,6 @@
 [submodule "desafios_cap_3"]
 	path = desafios_cap_3
 	url = ./desafios_cap_3
+[submodule "desafios_cap_4"]
+	path = desafios_cap_4
+	url = https://github.com/aliceteles-dev/programador_autodidata--cory_althoff
