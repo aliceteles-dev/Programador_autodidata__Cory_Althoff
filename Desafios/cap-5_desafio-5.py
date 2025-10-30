@@ -1,1 +1,11 @@
-#5. Escreva uma função que converta uma string em um float e retorne o resultado. Use a manipulação de exceções para capturar a exceção que pode ocorrer.
+#crie um dicionário que mapeie seus músicos favoritos para uma lista das canções que você mais gosta deles
+my_favorites = {"Toby Fox": "Fallen Down",
+                "Pitty": "Dançando",
+                "In This Moment": "Big Bad Wolf",
+                "Kojey Radical": "Same Boat",
+                "Black Sabbath": "Paranoid",
+                "Deep Purple": "Smoke On The Water",
+                "Sia": "The Greatest",
+                "Melanie Martinez": "Mad Hatter"
+                }
+print(my_favorites)
