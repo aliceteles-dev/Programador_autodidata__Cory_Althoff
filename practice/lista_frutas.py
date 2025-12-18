@@ -1,0 +1,1 @@
+frutas = ['maçã', 'banana', 'laranja', 'limão', 'tomate', 'abacaxi', 'abacate', 'pêssego', 'uva']
